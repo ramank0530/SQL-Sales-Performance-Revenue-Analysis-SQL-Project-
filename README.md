@@ -1,4 +1,5 @@
 📊 SQL Sales Performance & Revenue Analysis (SQL Project)
+
 🔹 Objective
 This project analyzes sales data to identify employee and department performance using SQL.
 The goal is to extract meaningful business insights such as top performers, revenue trends, and growth patterns. This analysis helps businesses identify high-performing employees, detect declining departments early, and make data-driven decisions for performance improvement.
